@@ -1,0 +1,14 @@
+C:\Users\ITPardaz\source\repos\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\ITPardaz\source\repos\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\ITPardaz\source\repos\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\ITPardaz\source\repos\RSA\RSA\bin\Debug\MaterialSkin.dll
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.csproj.CopyComplete
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.Form2.resources
+C:\Users\ITPardaz\source\repos\RSA\RSA\obj\Debug\RSA.Form3.resources
